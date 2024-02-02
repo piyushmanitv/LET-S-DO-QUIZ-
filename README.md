@@ -1,2 +1,2 @@
-# LET-S-DO-QUIZ-
+# LET-S-PLAY-QUIZ-
 GDSE Solution Challenge 2024
